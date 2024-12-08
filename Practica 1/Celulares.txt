@@ -1,0 +1,49 @@
+Id del producto: A4567B
+Precio: $17449
+Marca:   Samsung
+Stock Disponsible: 6000
+Stock Mayorista: 700
+Descripción:   descripcion
+Nombre : S23
+Id del producto: A5567B
+Precio: $19649
+Marca:   Samsung
+Stock Disponsible: 2000
+Stock Mayorista: 700
+Descripción:   descripcion
+Nombre : S23+
+Id del producto: A6567B
+Precio: $24199
+Marca:   Samsung
+Stock Disponsible: 500
+Stock Mayorista: 700
+Descripción:   descripcion
+Nombre : S23_Ultra
+Id del producto: A3567B
+Precio: $9499
+Marca:   Samsung
+Stock Disponsible: 6000
+Stock Mayorista: 700
+Descripción:   descripcion
+Nombre : S23_FE
+Id del producto: B6789B
+Precio: $26999
+Marca:  Xiaomi
+Stock Disponsible: 5000
+Stock Mayorista: 1000
+Descripción:   descripcion
+Nombre : Redmi_12C
+Id del producto: C6789C
+Precio: $10000
+Marca:   Motorola
+Stock Disponsible: 9000
+Stock Mayorista: 30000
+Descripción:    descripcion
+Nombre : Edge_40_pro
+Id del producto: B6789D
+Precio: $10548
+Marca:    Xiaomi
+Stock Disponsible: 1000
+Stock Mayorista: 100
+Descripción:   descripcion
+Nombre : Note_11T_Pro
